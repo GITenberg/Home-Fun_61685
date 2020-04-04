@@ -1,0 +1,46 @@
+_repo: Home-Fun_61685
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bullivant, Cecil Henry
+    alias: Bullivant, Cecil H.
+    birthdate: 1882
+    deathdate: 1981
+    gutenberg_agent_id: '51559'
+    url: http://www.gutenberg.org/2009/agents/51559
+description: ''
+gutenberg_issued: '2020-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61685'
+  lccn: '11000485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Amusements'
+- GITenberg
+tableOfContents: Amateur theatricals -- Mysteries of make-up -- The quick-change artist
+  -- Character impersonations -- The universal hat -- Nigger minstrelsy -- Some suggestions
+  in black -- Tableaux vivants -- Charades -- The possibilities of the musical sketch
+  -- Vamping simplified -- An evening at the phonograph -- Musical glasses -- Hand-bell
+  ringing -- The art of drawing-room singing -- Drawing-room recitals -- The art of
+  whistling -- Bunkum entertainments -- Ventriloquism in a month -- Conjuring for
+  all -- Some knotty points -- Black stage mysteries -- Concerning ghosts -- Some
+  stage illusions -- The room of mystery -- Mechanical second-sight -- Papergraphy
+  -- Juggling -- Plate-spinning and waltzing -- The tight-rope -- Clog dancing --
+  Shadow shows -- Lightning cartoons and "fake" sketching -- Frictional fun -- Some
+  electrical effects -- Safe scientific experiments -- Safe chemical experiments --
+  Odd experiments -- More experiments -- Photo pastimes -- How to make and work marionettes
+  -- Living marionettes -- The home circus -- How to make and work a peep-show --
+  The "mechanical" peep-show -- How to make and work a punch and judy show -- Dissolving
+  views -- Indoor fireworks -- How to make a telephone -- Telegraphy at home -- Elementary
+  hypnotism -- The powers and mysteries of clairvoyance -- Table-turning -- Palmistry
+  -- Phrenology -- Telling fortunes by cards, dice, dominoes, etc. -- Graphology --
+  A successful children's party -- Parlor games -- Parlor tricks and puzzles -- "How
+  would you——?" (puzzles) -- Some optical illusions -- Ciphers and cryptograms --
+  Secret signs -- Games and amusements for the blind.
+title: Home Fun
+url: http://www.gutenberg.org/ebooks/61685
